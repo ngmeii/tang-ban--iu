@@ -4,7 +4,7 @@ const CONFIG = {
     Đố biết tao sẽ ghi gì đấy
     Đồng ý thì nhớ làm nhéee`,
     btnIntro: 'Muhahhahah',
-    title: 'Phải chăng mày thấy tao rấc đáng iu và xinh đẹpp 😙',
+    title: 'Phải chăng mày thấy tao rấc đáng iu và xinh đẹp 😙',
     desc: 'Phải chăng mày đã ume tao ',
     btnYes: 'Tất nhiên rùiii <33 Mai như thế ai mà chả thíchh',
     btnNo: 'ĐÉO!!! Bớt ảo đi con đí',
