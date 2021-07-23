@@ -1,7 +1,8 @@
 const CONFIG = {
     introTitle: 'Héluu!',
     introDesc: `Xin chào người bạn yêu quý của nnm
-    `,
+    Đố biết tao sẽ ghi gì đấy
+    Đồng ý thì nhớ làm nhéee`,
     btnIntro: 'Muhahhahah',
     title: 'Phải chăng mày thấy tao rấc đáng iu và xinh đẹpp 😙',
     desc: 'Phải chăng mày đã ume tao ',
